@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QFileDialog,
     QMessageBox, QProgressDialog, QTextEdit, QStatusBar, QHBoxLayout, QLineEdit
 from PyQt5.QtCore import Qt, QDate
 from PyQt5 import QtWidgets, QtCore
-from Storage_Final_NEW import *
+from Storage import *
 
 
 class MainWindow(QMainWindow):
